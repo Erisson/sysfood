@@ -1,5 +1,5 @@
 			<div class="footer">
-            	<p>Copyright &copy; 2016. Todos os Direitos Reservados JrNext. JrNext: <a href="http://jrnext.com.br" target="_blank">JrNext</a></p>
+            	<p>Copyright &copy; 2016. Todos os Direitos Reservados EPSOFT</p>
             </div><!--footer-->
             
         </div><!--maincontent-->

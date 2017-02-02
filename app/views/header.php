@@ -49,7 +49,7 @@
                     </div><!--notiwrapper-->
                 </div><!--headercolumn-->
                 <div id="userPanel" class="headercolumn">
-                    <a href="<?php echo site_url('login');?>" class="userinfo">
+                    <a href="<?php echo site_url('login');?>" class="userinfo" title="Sair">
                         <img src="<?php echo base_url(); ?>assets/admin/images/avatar.png" alt="" class="radius2" />
                         <span><strong><?php foreach($user as $usuario){ echo $usuario->nome; } ?></strong></span>
                     </a>
